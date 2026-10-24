@@ -16,6 +16,7 @@ I am a proactive systems and security technologist dedicated to maintaining miss
 * **Active Technical Focus:** Python Automation, Network Protocol Analysis, Defense-in-Depth, Vulnerability Mitigation
 * **Career Direction:** Ethical Hacking / Offensive Security, AI Security, Identity & Access Management (IAM)
 * **Languages & Stack:** Python, TypeScript, HTML/CSS/JS, REST APIs, SQL (PostgreSQL via Supabase)
+* **Automation & Cloud:** n8n workflow automation, Google Forms workflows, Google Cloud Platform (GCP) instance setup, Agentic AI
 * **Target Certifications:** CompTIA Network+, CompTIA Security+
 
 ---
@@ -29,6 +30,7 @@ Degree program includes a built-in pathway to 14 industry certifications (in pro
 ### 🔭 Current Projects & Focus
 * Developing Python automation playbooks for telemetry collection and log parsing.
 * Hardening local and cloud endpoint architectures using Least Privilege principles.
+* Helping a Google Workspace team adopt skills, projects, and automated workflows (n8n, Google Forms, GCP, agentic AI).
 
 ---
 
