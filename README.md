@@ -115,3 +115,10 @@ Designed and built the complete website end-to-end for a multi-line insurance ag
 **[All South Senior Insurance](https://www.assistseniorinsurance.com)** — Website + Automated Intake Funnel
 *Tech: `Wix` · `n8n`*
 Built the client website end-to-end and designed an automated lead-intake funnel using n8n workflow automation for a Medicare enrollment support service.
+
+---
+
+### 🏅 Notable Achievement
+
+**State Insurance Licensing — Georgia & South Carolina**
+Self-directed licensing path pursued since 2024, alongside a full-time sales career. Passed in-person, proctored state licensing exams in both states — on the first attempt — plus a Medicare Certification (2026). That licensing and domain credibility directly led to being brought on to build the two client sites above. Didn't continue pursuing insurance as a career, but the discipline of learning and passing regulated, exam-based material under pressure carries directly into certification work now (CompTIA Security+/Network+).
