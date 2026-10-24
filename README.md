@@ -98,4 +98,20 @@ Also built the operations dashboard itself: a self-contained HTML/CSS/JS "Missio
 * Implemented verified Stripe webhook signature validation and Row-Level Security on all customer/order data.
 * Audited the checkout and fulfillment pipeline for data exposure and injection risk.
 
+**Google Workspace Security Audit** *(past offering)* — Independent Consulting Service
+* Admin console configuration review, org-unit/group structure analysis, user access analysis, 2FA enforcement verification, sharing-settings audit, and data-loss-prevention policy review.
+* Delivered as a structured client-facing engagement, not a lab exercise.
+
 *Private repositories are available on request for recruiters/employers — happy to walk through the code directly.*
+
+---
+
+### 💼 Client Work
+
+**[20 West Insurance](https://www.20westinsurance.com)** — Full Business Website
+*Tech: `Wix`*
+Designed and built the complete website end-to-end for a multi-line insurance agency (health, life, Medicare, auto, home, commercial).
+
+**[All South Senior Insurance](https://www.assistseniorinsurance.com)** — Website + Automated Intake Funnel
+*Tech: `Wix` · `n8n`*
+Built the client website end-to-end and designed an automated lead-intake funnel using n8n workflow automation for a Medicare enrollment support service.
