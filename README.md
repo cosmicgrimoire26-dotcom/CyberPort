@@ -5,13 +5,14 @@ I love books 📖, nature 🌅, and tech 👩‍💻
 # Hi, I'm Eysha 👋
 
 ## Professional Statement
-I am a proactive systems and security technologist dedicated to maintaining mission assurance through resilient defensive engineering and workflow automation. Combining practical enterprise administration with advancing skills in Python scripting and network protocol security, I focus on identifying anomalies early and reducing attack surfaces across interconnected environments. I am driven to help organizations maintain high-availability standards while safeguarding sensitive data against evolving threats.
+I am a proactive systems and security technologist dedicated to maintaining mission assurance through resilient defensive engineering and workflow automation. Combining practical enterprise administration with advancing skills in Python scripting and network protocol security, I focus on identifying anomalies early and reducing attack surfaces across interconnected environments. Long-term, I'm working toward ethical hacking and offensive security — and wherever that leads in applied AI — with Identity & Access Management (IAM) as a particular area of focus. I am driven to help organizations maintain high-availability standards while safeguarding sensitive data against evolving threats.
 
 ---
 
 ### 🛡️ Core Competencies & Skills
 * **Administration & Platforms:** Google Workspace Enterprise, Gemini Apps, Linux/macOS Administration, Identity & Access Management (IAM)
 * **Active Technical Focus:** Python Automation, Network Protocol Analysis, Defense-in-Depth, Vulnerability Mitigation
+* **Career Direction:** Ethical Hacking / Offensive Security, AI Security, Identity & Access Management (IAM)
 * **Languages & Stack:** Python, TypeScript, HTML/CSS/JS, REST APIs, SQL (PostgreSQL via Supabase)
 * **Target Certifications:** CompTIA Network+, CompTIA Security+
 
