@@ -2,6 +2,8 @@
 knowing-eysh: Cybersecurity Portfolio
 I love books 📖, nature 🌅, and tech 👩‍💻
 
+**[→ View my live resume at eyshtech.vip](https://eyshtech.vip)**
+
 # Hi, I'm Eysha 👋
 
 ## Professional Statement
@@ -41,6 +43,43 @@ Degree program includes a built-in pathway to 14 industry certifications (in pro
 *Tech: `Python` · `HTML/CSS/JS` · `REST APIs` · `cron` / `launchd` · `Discord API` · `Google Workspace APIs`*
 
 Architected and operated a 15-agent autonomous automation platform — Python backend, cron/launchd-scheduled, with a centralized "Nerve Center" state aggregator unifying all agent output into one source of truth. Agents span four domains:
+
+```mermaid
+graph TD
+    subgraph ORCH["Orchestration"]
+        JARVIS["CC Jarvis<br/>Orchestrator"]
+        NERVE["Nerve Center<br/>State Aggregator"]
+    end
+
+    subgraph SEC["Security Operations"]
+        CSO["Security Agent<br/>Incident Response"]
+        CTO["Infra Agent<br/>System Health"]
+        SANITIZER["Input Sanitizer<br/>Injection Defense"]
+        GATE["4-Stage Code<br/>Review Pipeline"]
+    end
+
+    subgraph BIZ["Business & Compliance"]
+        CBO["Lead-Gen Agent<br/>Pipeline"]
+        CFO["Finance Agent<br/>Tracking"]
+        LAW["Compliance Agent<br/>GDPR / DPAs"]
+    end
+
+    subgraph OUT["Outputs"]
+        DASH["Mission Control<br/>Dashboard"]
+        DISCORD["Discord<br/>18 Channels"]
+    end
+
+    CSO --> NERVE
+    CTO --> NERVE
+    CBO --> NERVE
+    CFO --> NERVE
+    LAW --> NERVE
+    NERVE --> JARVIS
+    JARVIS --> DASH
+    JARVIS --> DISCORD
+    SANITIZER -.protects.-> CSO
+    GATE -.gates.-> JARVIS
+```
 
 * **Security Operations** — automated incident report generation, breach monitoring (HIBP), weekly audits scanning every installed extension for prompt-extraction/credential-access/unsafe-dynamic-execution patterns, and automatic firewall-level IP blocking on detected probes.
 * **Infrastructure & System Health** — uptime/health monitoring, automated threat investigation, self-healing recovery checks, and a dashboard auditor that cross-references live state against source files to catch drift.
